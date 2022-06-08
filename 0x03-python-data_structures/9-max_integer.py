@@ -7,4 +7,3 @@ def max_integer(my_list=[]):
                 max = elm
         return max
     return None
-    
